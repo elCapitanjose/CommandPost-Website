@@ -21,6 +21,7 @@ Here’s a collection of awesome videos made by members of our community in Engl
 - [Batch Export FCPX browser clips using CommandPost](https://www.youtube.com/watch?v=FXzoeAUWMe4){target="_blank"}
 - [Tangent Ripple for FCPX w/CommandPost](https://www.youtube.com/watch?v=FWzd6KZNHpY){target="_blank"}
 - [Oyibo VFX explains how to speed up your FCPX workflow](https://www.youtube.com/watch?v=NCShkNSsH40){target="_blank"}
+- [How to set up LoupeDeck+ with CommandPost for Final Cut Pro](https://youtu.be/VPr5A1Ojd3M?si=_WrNlQ0OMGY73Dce){target="_blank"} 
 
 ...and in other languages:
 
